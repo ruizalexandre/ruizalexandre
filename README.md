@@ -1,11 +1,19 @@
 ### Hi there 👋
 
 
-# About
+## About
 
 Alexandre, french mobile and web developer 🇫🇷
 
-# Dev.to
+## Medium
+
+Come on into my [medium](https://ruizalexandre.medium.com)
+
+* [Visual Studio Code extensions](https://ruizalexandre.medium.com/visual-studio-code-extensions-bcc8f1331130)
+
+## Dev.to
+
+All my dev.to articles.
 
 ### General
 
