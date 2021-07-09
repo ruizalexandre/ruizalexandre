@@ -5,7 +5,7 @@
 
 Alexandre, french mobile and web developer 🇫🇷
 
-# 📰 Dev.to
+# Dev.to
 
 ### General
 
