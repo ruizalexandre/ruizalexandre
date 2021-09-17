@@ -11,6 +11,10 @@ This is an [organization](https://github.com/the-fellowship-of-the-code) of pass
 
 * [pokedex-vanilla-js](https://github.com/the-fellowship-of-the-code/pokedex-vanilla-js)
 
+## Git
+
+Please 👋, use this : [conventional changelog](https://www.conventionalcommits.org/en/v1.0.0/) with this npm [package](https://www.npmjs.com/package/standard-changelog)
+
 ## Medium
 
 Come on into my [medium](https://ruizalexandre.medium.com)
