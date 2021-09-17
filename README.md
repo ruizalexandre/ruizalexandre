@@ -3,7 +3,15 @@
 
 ## About
 
-Alexandre, french mobile and web developer 🇫🇷
+```typescript
+/**
+  * @name Alexandre
+  * @location France, Toulouse 
+  * @job mobile and web developer
+  * @website https://bio.link/ruizalexandre
+  * @company Stack-Labs https://stack-labs.com/
+  */
+```
 
 ## The Fellowship of The Code
 
