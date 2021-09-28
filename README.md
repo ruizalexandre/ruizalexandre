@@ -4,7 +4,7 @@
 /**
   * @name Alexandre
   * @location France, Toulouse 
-  * @job mobile and web developer
+  * @job Tech Lead Frontend
   * @website https://bio.link/ruizalexandre
   * @company Stack-Labs https://stack-labs.com/
   */
