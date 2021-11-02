@@ -6,7 +6,7 @@
   * @location France, Toulouse 
   * @job Tech Lead Frontend
   * @website https://bio.link/ruizalexandre
-  * @company Stack-Labs https://stack-labs.com/
+  * @company Ingenico Terminals https://www.ingenico.com/fr
   */
 ```
 
