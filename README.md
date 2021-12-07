@@ -4,9 +4,9 @@
 /**
   * @name Alexandre
   * @location France, Toulouse 
-  * @job Tech Lead Frontend
+  * @job Freelance / Full Stack Developer
   * @website https://bio.link/ruizalexandre
-  * @company Ingenico Terminals https://www.ingenico.com/fr
+  * @company Snowcodes
   */
 ```
 
