@@ -37,3 +37,7 @@ All my dev.to articles.
 * [Angular Router • Popstate blocked](https://dev.to/stack-labs/angular-router-popstate-blocked-3c18)
 * [No more 💩 angular unit test / #1 Component template](https://dev.to/stack-labs/no-more-angular-unit-test-1-component-template-2b09)
 * [No more 💩 angular unit test / #2 Component logic](https://dev.to/stack-labs/no-more-angular-unit-test-2-component-logic-3cgk)
+
+<br>
+
+![https://github-readme-stats.vercel.app/api?username=ruizalexandre&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=ruizalexandre&show_icons=true&theme=dark)
