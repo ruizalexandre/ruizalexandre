@@ -20,12 +20,6 @@ This is an [organization](https://github.com/the-fellowship-of-the-code) of pass
 
 Please 👋, use this : [conventional changelog](https://www.conventionalcommits.org/en/v1.0.0/) with this npm [package](https://www.npmjs.com/package/standard-changelog)
 
-## Medium
-
-Come on into my [medium](https://ruizalexandre.medium.com)
-
-* [Visual Studio Code extensions](https://ruizalexandre.medium.com/visual-studio-code-extensions-bcc8f1331130)
-
 ## Dev.to
 
 All my dev.to articles.
@@ -40,4 +34,4 @@ All my dev.to articles.
 
 <br>
 
-![https://github-readme-stats.vercel.app/api?username=ruizalexandre&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=ruizalexandre&show_icons=true&theme=dark)
+![https://github-readme-stats.vercel.app/api?username=ruizalexandre&show_icons=true](https://github-readme-stats.vercel.app/api?username=ruizalexandre&show_icons=true&theme=dark)
