@@ -3,7 +3,7 @@
 ```typescript
 /**
   * @name Alexandre
-  * @location France, Toulouse 
+  * @location France, Occitanie 
   * @job Freelance / Full Stack Developer
   * @website https://bio.link/ruizalexandre
   * @company Snowcodes
