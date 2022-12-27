@@ -10,12 +10,6 @@
   */
 ```
 
-## snowcodes
-
-I created snowcodes in 2021. The is my own company to create some cool stuff :) 
-
-* [pokedex-vanilla-js](https://github.com/the-fellowship-of-the-code/pokedex-vanilla-js)
-
 ## Git
 
 Please 👋, use this : [conventional changelog](https://www.conventionalcommits.org/en/v1.0.0/) with this npm [package](https://www.npmjs.com/package/standard-changelog)
@@ -29,8 +23,8 @@ All my dev.to articles.
 * [[Flutter] Firebase authentication : Dynamic routing by AuthStateChanges 🔥](https://dev.to/ruizalexandre/flutter-firebase-authentication-dynamic-routing-by-authstatechanges-9k0)
 * [Singleton, return to Javascript basics](https://dev.to/ruizalexandre/singleton-return-to-javascript-basics-gp8)
 * [Angular Router • Popstate blocked](https://dev.to/stack-labs/angular-router-popstate-blocked-3c18)
-* [No more 💩 angular unit test / #1 Component template](https://dev.to/stack-labs/no-more-angular-unit-test-1-component-template-2b09)
-* [No more 💩 angular unit test / #2 Component logic](https://dev.to/stack-labs/no-more-angular-unit-test-2-component-logic-3cgk)
+* [No more 💩 angular unit test / #1 Component template](https://dev.to/snowcodes/no-more-angular-unit-test-1-component-template-2b09)
+* [No more 💩 angular unit test / #2 Component logic](https://dev.to/snowcodes/no-more-angular-unit-test-2-component-logic-3cgk)
 
 <br>
 
