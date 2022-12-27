@@ -10,9 +10,9 @@
   */
 ```
 
-## The Fellowship of The Code
+## snowcodes
 
-This is an [organization](https://github.com/the-fellowship-of-the-code) of passionnates developers.
+I created snowcodes in 2021. The is my own company to create some cool stuff :) 
 
 * [pokedex-vanilla-js](https://github.com/the-fellowship-of-the-code/pokedex-vanilla-js)
 
