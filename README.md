@@ -5,7 +5,7 @@
   * @name Alexandre
   * @location France, Occitanie 
   * @job CEO at snowcodes / Full Stack Developer
-  * @website https://bio.link/ruizalexandre
+  * @website https://snowcodes.io
   * @company Snowcodes
   */
 ```
