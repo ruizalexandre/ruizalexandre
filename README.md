@@ -6,7 +6,7 @@
   * @location France, Occitanie 
   * @job CEO at snowcodes / Full Stack Developer
   * @website https://snowcodes.fr
-  * @company Snowcodes
+  * @company SNOWCODES
   */
 ```
 
